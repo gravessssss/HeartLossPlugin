@@ -1,0 +1,4 @@
+name: HeartLossPlugin
+version: '1.0'
+main: me.danrom.heartlossplugin.HeartLossPlugin
+api-version: '1.20'
